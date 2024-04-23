@@ -9,7 +9,7 @@
 - 📫 Reach out to me at chouhansagar131@gmail.com
 
 #### Feel free to explore my repositories and projects. Don't hesitate to connect if you're interested in collaboration or have any questions. Looking forward to hearing from you! 😊
-
+<a href="https://gitroll.io/profile/uKPNwfYWYJscqoNBm7svBKOuMoIh1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uKPNwfYWYJscqoNBm7svBKOuMoIh1" alt="GitRoll Profile Badge"/></a>
 <!---
 csagar131/csagar131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
