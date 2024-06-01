@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csagar131" alt="csagar131" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/csagar131" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/csagar131?logo=twitter&style=for-the-badge" alt="https://x.com/csagar131" /></a> </p>
+<p align="left"> <a href="https://twitter.com/csagar131" target="blank"><img src="https://img.shields.io/twitter/follow/csagar131?logo=twitter&style=for-the-badge" alt="https://x.com/csagar131" /></a> </p>
 
 - 🌱 I’m currently learning **Nextjs, Reactjs, Javascript, Typescript**
 
