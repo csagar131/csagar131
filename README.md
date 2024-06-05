@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chouhansagar131@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sh5qOiI1sPpzfjYBZxzv63O-H78R497z/view](https://drive.google.com/file/d/1Sh5qOiI1sPpzfjYBZxzv63O-H78R497z/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1R5ZbCMkDgZ0xcdtyu3xHx8qD_bkZmAUW/view?usp=drive_link)
 
 - ⚡ Fun fact **At times, I might feel like my coding skills aren't the sharpest, but rest assured, when you hit that submit button, your form will glide through seamlessly.**
 
