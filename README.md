@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Mochi</h1>
-<h3 align="center">A passionate frontend developer with 3+ years of experience from India</h3>
+<h3 align="center">A passionate frontend developer with 3.6+ years of experience from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csagar131&label=Profile%20views&color=0e75b6&style=flat" alt="csagar131" /> </p>
 
